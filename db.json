@@ -43,7 +43,7 @@
         {
       "id": 4,
       "name": "Comtam",
-      "image": "images/comtam.png",
+      "image": "images/comtam.jng",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
@@ -53,7 +53,7 @@
         {
       "id": 5,
       "name": "sushi",
-      "image": "images/sushi.png",
+      "image": "images/sushi.jng",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
@@ -63,7 +63,7 @@
         {
       "id": 6,
       "name": "bunbo",
-      "image": "images/bunbo.png",
+      "image": "images/bunbo.jng",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
