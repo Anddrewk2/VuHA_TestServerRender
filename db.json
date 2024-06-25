@@ -8,41 +8,41 @@
       "label": "Hot",
       "price": "4.99",
       "featured": true,
-      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+      "description": "Pizza is an iconic Italian dish that has become a beloved staple worldwide. Known for its crispy crust, rich tomato sauce, and melted cheese, pizza offers endless possibilities for toppings and variations."
     },
         {
       "id": 1,
-      "name": "Comtam",
+      "name": "Cơm tấm",
       "image": "images/comtam.png",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
       "featured": true,
-      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+      "description": "Cơm Tấm is a signature and popular dish in Vietnamese cuisine, especially in the southern region. Known for its distinctive flavor and variety of ingredients."
     },
         {
       "id": 2,
-      "name": "sushi",
+      "name": "Sushi",
       "image": "images/sushi.png",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
       "featured": true,
-      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+      "description": "Sushi is a traditional Japanese dish renowned for its simplicity, elegance, and exquisite flavor combinations. It has become a global favorite, enjoyed in various forms and styles."
     },
         {
       "id": 3,
-      "name": "Beef rice noodles",
+      "name": "Bún bò Huế",
       "image": "images/bunbo1.png",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
       "featured": true,
-      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+      "description": "Bún Bò Huế is typically served in a large bowl with a generous amount of broth, noodles, and meat. Fresh herbs, bean sprouts, and banana blossoms are added on top or served on the side. A lime wedge and a dollop of chili sauce complete the presentation, allowing diners to customize their soup to their taste."
     },
         {
       "id": 4,
-      "name": "hambergur",
+      "name": "Hambergur",
       "image": "images/hambergur.png",
       "category": "mains",
       "label": "Hot",
@@ -217,12 +217,12 @@
   "promotions": [
     {
       "id": 0,
-      "name": "Weekend Grand Buffet",
+      "name": "Special Weekend DisCount",
       "image": "images/buffet.png",
       "label": "New",
       "price": "19.99",
       "featured": true,
-      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+      "description": "When you place an order between the hours of 1:00 p.m. and 3:00 p.m., you will receive a 30% discount based on the price of the item and receive a loyalty card. If you have 10 points, you will receive a free portion of food worth $20 when purchased at the restaurant."
     }
   ],
   "leaders": [
@@ -246,12 +246,12 @@
     },
     {
       "id": 2,
-      "name": "Agumbe Tang",
+      "name": "And3w2k",
       "image": "images/alberto.png",
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
-      "description": "Blessed with the most discerning gustatory sense, Agumbe, our CFO, personally ensures that every dish that we serve meets his exacting tastes. Our chefs dread the tongue lashing that ensues if their dish does not meet his exacting standards. He lives by his motto, You click only if you survive my lick."
+      "description": "The chef is selected by the restaurant with many years of experience and a team of professional staff"
     },
     {
       "id": 3,
