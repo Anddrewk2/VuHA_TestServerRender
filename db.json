@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      "image": "images/uthappizza.png",
+      "image": "images/pizza.png",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
@@ -218,7 +218,7 @@
     {
       "id": 0,
       "name": "Special Weekend DisCount",
-      "image": "images/buffet.png",
+      "image": "images/DiscountSale.png",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -247,7 +247,7 @@
     {
       "id": 2,
       "name": "And3w2k",
-      "image": "images/alberto.png",
+      "image": "images/chef.png",
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
@@ -255,12 +255,12 @@
     },
     {
       "id": 3,
-      "name": "Alberto Somayya",
-      "image": "images/alberto.png",
+      "name": "And3w2k",
+      "image": "images/chef.png",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
-      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
+      "description": "The chef is selected by the restaurant with many years of experience and a team of professional staff"
     }
   ],
   "feedback": [
