@@ -2,7 +2,7 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Uthappizza",
+      "name": "Pizza",
       "image": "images/pizza.png",
       "category": "mains",
       "label": "Hot",
