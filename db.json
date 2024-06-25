@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Pizza",
-      "image": "images/pizza.png",
+      "image": "images/Pizza.png",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
@@ -229,7 +229,7 @@
     {
       "id": 0,
       "name": "Peter Pan",
-      "image": "images/alberto.png",
+      "image": "images/panel1.png",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
@@ -238,7 +238,7 @@
     {
       "id": 1,
       "name": "Dhanasekaran Witherspoon",
-      "image": "images/alberto.png",
+      "image": "images/panel2.png",
       "designation": "Chief Food Officer",
       "abbr": "CFO",
       "featured": false,
